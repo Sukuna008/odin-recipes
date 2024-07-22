@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 600px;
+    box-sizing: border-box;    
+}
+
+.heading-1 {
+    color: white;
+    background-color: blueviolet;
+    text-decoration: underline;
+    padding: 20px 30px;
+    margin: 0 auto;
+}
+#pudding, #keema, #macaroni {
+    margin: 10px;
+    background-color: lightskyblue;
+    padding: 5px;
+}
